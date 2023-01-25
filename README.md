@@ -1,0 +1,1 @@
+Most email signatures are boring and signature generators never have github as an option. they usually have twitter and facebook (socials) but they have linkedin but never github. so i decided to create on that includes professional ones. a CTA for Calendy, LinkedIn, and Github.
